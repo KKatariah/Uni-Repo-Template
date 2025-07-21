@@ -3,6 +3,6 @@
 .obsidian/graph.json
 .obsidian/plugins/*/cache/
 
-# Plugin data that may contain sensitive info!!
+
 .obsidian/plugins/text-extractor/data.json
 .obsidian/plugins/omnisearch/data.json
